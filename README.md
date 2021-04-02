@@ -1,6 +1,7 @@
 # bot-singolo
 
-per usare:
+Scarica la cartella e mettila nel desktop
+Per usare usa questo comando da terminale:
 
 ### cd; cd desktop/bot-singolo-main; python3 alberto.py rookieclubshop_ Nico2003 target_username conteggio_utenti delay_utenti conteggio_run delay_run
 
